@@ -1,2 +1,2 @@
 # Sample-
-My first Project
+My first Project, was forked and updated by a merge.
